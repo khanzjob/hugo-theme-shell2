@@ -1,0 +1,12 @@
+{{ define "main" }}
+    <h1>Writeups</h1>
+
+    {{ range .Site.Taxonomies.categories }}
+        <h2>{{ .Page.Title }}</h2>
+        <ul>
+            {{ range .Pages }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+    {{ end }}
+{{ end }}

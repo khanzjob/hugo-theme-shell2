@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography on ug_pwn</title>
+    <link>http://localhost:1313/categories/cryptography/</link>
+    <description>Recent content in Cryptography on ug_pwn</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rsa</title>
+      <link>http://localhost:1313/writeups/cryptography/rsa/</link>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writeups/cryptography/rsa/</guid>
+      <description>lkenflenfl&#xA;jkbdckj</description>
+    </item>
+  </channel>
+</rss>
